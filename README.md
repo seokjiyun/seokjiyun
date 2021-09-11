@@ -1,4 +1,9 @@
 ### Hi there 👋
+😄 My name is Jiyun Soek
+🌱 I’m currently learning c++
+📫 How to reach me: hun6611@gmail.com 
+💬 Ask me about Discord: 라임#7289
+
 
 <!--
 **seokjiyun/seokjiyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
