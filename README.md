@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 😄 My name is Jiyun Soek
 🌱 I’m currently learning c++
 📫 How to reach me: hun6611@gmail.com 
