@@ -1,8 +1,8 @@
 # Hi there 👋
-😄 My name is Jiyun Soek
-🌱 I’m currently learning c++
-📫 How to reach me: hun6611@gmail.com 
-💬 Ask me about Discord: 라임#7289
+-😄 My name is Jiyun Soek
+-🌱 I’m currently learning c++
+-📫 How to reach me: hun6611@gmail.com 
+-💬 Ask me about Discord: 라임#7289
 
 
 <!--
